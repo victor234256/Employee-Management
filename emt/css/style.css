@@ -1,0 +1,65 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color:#000;
+
+}
+#form{
+    box-shadow: 2px 2px #fff;
+    border: 5px solid #fff;
+    background-color: aquamarine;
+}
+.error{
+    color: red;
+}
+.success{
+    font-size: 20px;
+    color: aliceblue;
+    text-align: center;
+}
+/*
+table{
+    width: 100%;
+    border: 5px solid blue;
+    text-align: center;
+color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+*/
+#topic{
+    box-shadow: 2px 2px 2px 2px #fff;
+    border: 5px solid #fff;
+    background-color: #20c956;
+    color: #fff;
+}
+.iq{
+     box-shadow: 2px 2px 2px 2px #fff;
+    border: 5px solid #2e6da4;
+    background-color: #fff;
+    color: #2e6da4;
+}
+.upd{
+    background-color: #20c956!important;
+    
+     border-radius: 6px;
+    text-align: center;
+}
+.del{
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    border-radius: 6px;
+    text-align: center;
+ 
+}
+.bg-white{
+    background-color: #fff;
+}
+.text-white a{
+    color: #fff;
+}
+.footer{
+    background-color: #337ab7;
+/*    min-height: 90px;*/
+    border-bottom: 5px solid blue;
+    
+}
